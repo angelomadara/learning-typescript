@@ -1,0 +1,2 @@
+https://www.totaltypescript.com/
+https://www.udemy.com/course/understanding-typescript/
